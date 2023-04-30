@@ -1,7 +1,5 @@
 # **Information-Security Practicals**
 
----
-
 ### 1. Implement the error correcting code.
 
 ### 2. Implement the error detecting code.
